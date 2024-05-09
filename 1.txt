@@ -1,0 +1,3 @@
+print('hello')
+print('my name is maryam')
+print('my lass name is moosavi')
